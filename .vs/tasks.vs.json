@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-sueldo_neto",
+      "appliesTo": "sueldo_neto.py",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-sueldo_neto",
+      "appliesTo": "sueldo_neto.py",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-sueldo_neto",
+      "appliesTo": "sueldo_neto.py",
+      "type": "launch"
+    }
+  ]
+}
